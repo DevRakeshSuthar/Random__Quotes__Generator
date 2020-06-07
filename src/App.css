@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 150px;
+  text-align: center;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+.card {
+  margin-top: 25px;
+  width: 600px;
+  justify-content: center;
+}
+
+.margin-top {
+  margin-top: 8px !important;
+}
